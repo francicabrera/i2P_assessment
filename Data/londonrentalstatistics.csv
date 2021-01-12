@@ -5,7 +5,7 @@ Barking and Dagenham,One Bedroom,170,981,900,1000,1050
 Barking and Dagenham,Two Bedrooms,280,1207,1125,1200,1300
 Barking and Dagenham,Three Bedrooms,170,1441,1350,1400,1550
 Barking and Dagenham,Four or More Bedrooms,30,1655,1550,1675,1800
-Barnet,Room,
+Barnet,Room,0,0,0,0,0
 Barnet,Studio,70,903,800,900,997
 Barnet,One Bedroom,390,1165,1065,1150,1250
 Barnet,Two Bedrooms,810,1410,1300,1400,1500
@@ -35,12 +35,12 @@ Camden,One Bedroom,300,1640,1278,1508,1895
 Camden,Two Bedrooms,240,2254,1733,2150,2680
 Camden,Three Bedrooms,90,2880,2150,2492,3337
 Camden,Four or More Bedrooms,60,3982,2860,3400,4008
-City of London,Room,0,
-City of London,Studio,
+City of London,Room,0,0,0,0,0
+City of London,Studio,0,0,0,0,0
 City of London,One Bedroom,10,2071,1647,1998,2385
-City of London,Two Bedrooms,
-City of London,Three Bedrooms,
-City of London,Four or More Bedrooms,0,
+City of London,Two Bedrooms,0,0,0,0,0
+City of London,Three Bedrooms,0,0,0,0,0
+City of London,Four or More Bedrooms,0,0,0,0,0
 Croydon,Room,100,556,467,537,637
 Croydon,Studio,90,757,700,755,800
 Croydon,One Bedroom,570,963,875,950,1025
@@ -53,7 +53,7 @@ Ealing,One Bedroom,670,1238,1100,1250,1350
 Ealing,Two Bedrooms,870,1531,1350,1495,1650
 Ealing,Three Bedrooms,400,1955,1600,1850,2147
 Ealing,Four or More Bedrooms,220,2804,2200,2500,3000
-Enfield,Room,0,
+Enfield,Room,0,0,0,0,0
 Enfield,Studio,30,844,800,850,900
 Enfield,One Bedroom,140,978,900,950,1070
 Enfield,Two Bedrooms,210,1301,1200,1300,1395
@@ -65,7 +65,7 @@ Greenwich,One Bedroom,320,1238,1100,1250,1375
 Greenwich,Two Bedrooms,540,1476,1250,1400,1650
 Greenwich,Three Bedrooms,250,1777,1450,1650,2000
 Greenwich,Four or More Bedrooms,80,2205,1650,2200,2600
-Hackney,Room,
+Hackney,Room,0,0,0,0,0
 Hackney,Studio,50,1045,960,1000,1148
 Hackney,One Bedroom,460,1471,1300,1425,1675
 Hackney,Two Bedrooms,610,1816,1550,1750,2058
@@ -107,13 +107,13 @@ Hounslow,One Bedroom,400,1162,1000,1100,1313
 Hounslow,Two Bedrooms,530,1388,1200,1300,1500
 Hounslow,Three Bedrooms,250,1725,1450,1650,1850
 Hounslow,Four or More Bedrooms,110,2610,1750,2125,2800
-Islington,Room,
+Islington,Room,0,0,0,0,0
 Islington,Studio,20,1379,1159,1309,1660
 Islington,One Bedroom,180,1565,1365,1517,1729
 Islington,Two Bedrooms,180,2022,1650,1842,2123
 Islington,Three Bedrooms,40,2450,2190,2343,2654
 Islington,Four or More Bedrooms,30,3537,2820,3402,3943
-Kensington and Chelsea,Room,
+Kensington and Chelsea,Room,0,0,0,0,0
 Kensington and Chelsea,Studio,150,1427,1278,1408,1560
 Kensington and Chelsea,One Bedroom,570,2072,1712,1950,2275
 Kensington and Chelsea,Two Bedrooms,670,3024,2275,2708,3358
@@ -155,7 +155,7 @@ Redbridge,One Bedroom,290,1029,900,1040,1150
 Redbridge,Two Bedrooms,490,1292,1200,1275,1400
 Redbridge,Three Bedrooms,230,1589,1450,1600,1700
 Redbridge,Four or More Bedrooms,90,2124,1800,2000,2325
-Richmond upon Thames,Room,
+Richmond upon Thames,Room,0,0,0,0,0
 Richmond upon Thames,Studio,50,982,850,950,1100
 Richmond upon Thames,One Bedroom,420,1287,1150,1250,1398
 Richmond upon Thames,Two Bedrooms,810,1701,1450,1600,1850
@@ -185,7 +185,7 @@ Waltham Forest,One Bedroom,390,1122,1000,1100,1200
 Waltham Forest,Two Bedrooms,560,1364,1250,1325,1450
 Waltham Forest,Three Bedrooms,250,1649,1495,1650,1775
 Waltham Forest,Four or More Bedrooms,110,2026,1830,2000,2200
-Wandsworth,Room,
+Wandsworth,Room,0,0,0,0,0
 Wandsworth,Studio,40,1060,972,1050,1235
 Wandsworth,One Bedroom,410,1421,1300,1400,1550
 Wandsworth,Two Bedrooms,730,1787,1550,1750,1980
